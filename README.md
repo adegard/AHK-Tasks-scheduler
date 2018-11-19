@@ -6,7 +6,7 @@
 -control next execution in tray</br>
 
 </br>
-<img src="https://raw.githubusercontent.com/adegard/AHK-Tasks-scheduler/master/ExampleTaskScheduler.gif"  align="center">
+<img src="https://github.com/adegard/AHK-Tasks-scheduler/blob/master/ExampleTaskScheduler.gif"  align="center">
 ****************
 
 1-How to install: 
