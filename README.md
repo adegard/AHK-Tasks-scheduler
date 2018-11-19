@@ -9,12 +9,13 @@
 <img src="https://raw.githubusercontent.com/adegard/AHK-Tasks-scheduler/master/Immagine.jpg"  align="center">
 ****************
 
-1-How to install: Put WapUp.ahk and AHK-Tasks-scheduler-vx.ahk files in the same folder
-2-Run AHK-Task-scheduler and choose a file to schedule:
-    -schedule single task: job is deleted after run
-    -schedule every task: job remains minimized in tray and start each day (Every day check)
-
-References:
+1-How to install: Put WapUp.ahk and AHK-Tasks-scheduler-vx.ahk files in the same folder</br>
+2-Run AHK-Task-scheduler and choose a file to schedule:</br>
+    -schedule single task: job is deleted after run</br>
+    -schedule every task: job remains minimized in tray and start each day (Every day check)</br>
+</br>
+*****************
+References:</br>
 adapted from original: https://autohotkey.com/board/topic/11200-ahk-scheduler/
 
 
