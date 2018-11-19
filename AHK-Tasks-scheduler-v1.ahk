@@ -1,5 +1,5 @@
-﻿/*
-@adegard, 2018 AHK-Tasks-scheduler-v1.ahk   https://github.com/adegard/
+/*
+@adegard, 2018 AHK-Tasks-scheduler-v1.ahk   https://github.com/adegard/AHK-Tasks-scheduler
 1-How to install: PutWapUp.ahk file in the same folder
 2-Run AHK-Task-scheduler and choose a file to schedule:
     -schedule single task: job is deleted after run
@@ -88,7 +88,7 @@ helptext=
     -schedule every task: job remains minimized in tray and start each day (Every day check)
     
 @adegard, 2018 AHK-Tasks-scheduler-v1.ahk
-https://github.com/adegard/
+https://github.com/adegard/AHK-Tasks-scheduler
 )
 
 	MsgBox, %helptext%
