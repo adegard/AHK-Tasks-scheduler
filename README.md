@@ -1,7 +1,7 @@
 # AHK-Tasks-scheduler
 
 <h1>Task Scheduler in ahk:  AHK-Tasks-scheduler-vx </h1>
--Create schedule single daily Tasks or "every day" task, </br>
+-Schedule single Task or "every day" tasks, </br>
 -Launch ahk scripts, exe, ... what you want</br>
 -control next execution in tray</br>
 
