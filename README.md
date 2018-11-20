@@ -3,8 +3,8 @@
 <h1>Task Scheduler in ahk:  AHK-Tasks-scheduler-vx </h1>
 -Schedule single Task or "every day" tasks, </br>
 -Launch ahk scripts, exe, ... what you want</br>
--control next execution in tray</br>
-
+-control next execution in tray: Exit to quit</br>
+-control Windows Startup Folder : Delete reccuring tasks you don't want</br>
 </br>
 <img src="https://raw.githubusercontent.com/adegard/AHK-Tasks-scheduler/master/Immagine.jpg"  align="center">
 
