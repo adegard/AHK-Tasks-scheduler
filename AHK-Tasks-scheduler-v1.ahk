@@ -27,7 +27,7 @@ Gui Add, Radio, x304 y104 w80 h26, &Suspend NOW
 Gui Add, Button, x272 y256 w48 h23, &Help
 Gui Add, Button, x328 y256 w48 h23, &Cancel
 Gui Add, Button, x384 y256 w48 h23 Default, &OK
-Gui Add, Edit, vStart x24 y56 w184 h21
+Gui Add, Edit, vStart x24 y56 w184 h21, Select file--> 
 Gui Add, Button, x216 y56 w33 h22, &File
 Gui Add, CheckBox, valldays x184 y100 w70 h19, Every day
 Gui Add, GroupBox, x272 y144 w153 h80, Startup Folder
@@ -88,10 +88,10 @@ GuiClose:
 ButtonHelp:
 helptext=
 (  Join`r`n
-1-How to install: PutWapUp.ahk file in the same folder
+1-How to install: Put WapUp.ahk in the same folder
 2-Run AHK-Task-scheduler and choose a file to schedule:
     -schedule single task: job is deleted after run
-    -schedule every task: job remains minimized in tray and start each day (Every day check)
+    -schedule every day: job remains minimized in tray and start each day (Every day check)
     
 @adegard, 2018 AHK-Tasks-scheduler-v1.ahk
 https://github.com/adegard/AHK-Tasks-scheduler
