@@ -30,12 +30,18 @@ Gui Add, Button, x384 y256 w48 h23 Default, &OK
 Gui Add, Edit, vStart x24 y56 w184 h21
 Gui Add, Button, x216 y56 w33 h22, &File
 Gui Add, CheckBox, valldays x184 y100 w70 h19, Every day
+Gui Add, GroupBox, x272 y144 w153 h80, Startup Folder
+Gui Add, Button, x307 y175 w80 h23, &Open
 
 Gui Show, w450 h288, AHK-Tasks-Scheduler v1
 Return
 
 ; SUBROUTINES
 
+
+ButtonOpen:
+run, %A_startup%
+return
 
 ButtonFile:
 FileSelectFile, SelectedFile, 3, , Open a file ;Text Documents (*.txt; *.doc)
