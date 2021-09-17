@@ -21,7 +21,4 @@
 References:</br>
 adapted from original: https://autohotkey.com/board/topic/11200-ahk-scheduler/
 
-*****************
-Other Ressources for Automation:</br>
-https://www.pc-dream.it/ressources.html
 
